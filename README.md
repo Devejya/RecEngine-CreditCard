@@ -8,7 +8,6 @@ Premiumization project incorporates a comprehensive approach to all sort of proa
 ## Step 1: Data Collection:
 
 * This is done by SQL stored procedures in JoinedQuery.sql
-* Data is queried from EDW, BIM and Share of Wallet and First in Wallet.
 * It's Aggregated and stored as a CSV.
 * Due to limitations regarding the number of columns which can be pivoted in SQL Server, That part is done in SAS
 
